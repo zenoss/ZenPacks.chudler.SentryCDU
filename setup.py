@@ -5,7 +5,7 @@
 NAME = "ZenPacks.chudler.SentryCDU"
 VERSION = "1.1"
 AUTHOR = "Colin Hudler"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.chudler']
 PACKAGES = ['ZenPacks', 'ZenPacks.chudler', 'ZenPacks.chudler.SentryCDU']
 INSTALL_REQUIRES = []
